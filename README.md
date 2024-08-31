@@ -1,0 +1,4 @@
+This program significantly reduces the time spent on manual research, analysis, and repetitive copy-pasting tasks. Within minutes, a bot that simulates normal user behavior navigates OTODOM.pl to search for properties based on specific customer requirements, such as renting a property in Kraków, Poland, with a maximum price of 3000 zł. The bot rapidly scrapes the website, analyzes the data, and sends the property details, including address, price, and link, to Google Sheets. All this work is completed in moments, allowing the user to save valuable time for tasks that require human attention.
+
+From a technical standpoint, the bot functions as a web scraper connected via API to Google Sheets. This program is a real-world example of automation, effectively freeing up time for more meaningful human tasks.
+
